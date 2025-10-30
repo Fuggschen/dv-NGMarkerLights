@@ -1,0 +1,13 @@
+{
+	"Id": "NGMarkerLights",
+	"Version": "1.0.0",
+	"DisplayName": "Narrow Gauge Marker Lights",
+	"Author": "Fuggschen, BorING",
+	"HomePage": "https://www.nexusmods.com/derailvalley/mods/",
+	"Repository": "https://github.com/Fuggschen/dv-NGMarkerLights",
+	"AssemblyName": "NGMarkerLights.Game.dll",
+	"EntryMethod": "NGMarkerLights.Game.Main.Load",
+	"Requirements": [
+		"custom_item_mod"
+	]
+}

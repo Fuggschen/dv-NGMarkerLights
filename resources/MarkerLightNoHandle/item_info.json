@@ -1,0 +1,11 @@
+{
+    "Name": "Narrow Gauge Marker Light /wo handle",
+    "Description": "Marker Light for Narrow Gauge Locos without mounting handle",
+    "Amount": 50,
+    "Price": 1000,
+    "AssetBundleName": "ngmarkerlightsnohandle",
+    "PrefabPath": "Assets/Prefabs/NGMarkerLightNoHandle.prefab",
+    "IconStandardPath": "Assets/Texture2D/standardnohandle.png",
+    "IconDroppedPath": "Assets/Texture2D/droppednohandle.png",
+	"ShelfPrefabPath": "Assets/Prefabs/NGMarkerLightNoHandle_ShelfItem.prefab"
+}

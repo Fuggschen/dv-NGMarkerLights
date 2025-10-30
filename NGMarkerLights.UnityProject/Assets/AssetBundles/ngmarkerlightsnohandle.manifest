@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3983322425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e38cfd77701f9218c9fa30e9d2638b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fcd39683bc998f991921ab03fac70d8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 2069323190, guid: 533f662560a542a4f9a957b6dfb92383, type: 3}
+- Class: 114
+  Script: {fileID: 1368475075, guid: bbf572c21e34ddf4b945720b96fdafd0, type: 3}
+- Class: 114
+  Script: {fileID: 1036456508, guid: 533f662560a542a4f9a957b6dfb92383, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/NGMarkerLightNoHandle_Gadget.prefab
+- Assets/Prefabs/NGMarkerLightNoHandle.prefab
+- Assets/Texture2D/standardnohandle.png
+- Assets/Prefabs/NGMarkerLightNoHandle_ShelfItem.prefab
+- Assets/Texture2D/droppednohandle.png
+Dependencies:
+- D:/Derail Valley Development/NGMarkerLights/NGMarkerLights.UnityProject/Assets/AssetBundles/ngmarkerlights
