@@ -1,8 +1,8 @@
 {
-    "Name": "Narrow Gauge Marker Light with handle",
+    "Name": "Narrow Gauge Marker Light (Handle)",
     "Description": "Marker Light for Narrow Gauge Locos with mounting handle",
-    "Amount": 50,
-    "Price": 1000,
+    "Amount": 80,
+    "Price": 400,
     "AssetBundleName": "ngmarkerlights",
     "PrefabPath": "Assets/Prefabs/NGMarkerLight.prefab",
     "IconStandardPath": "Assets/Texture2D/standard.png",
