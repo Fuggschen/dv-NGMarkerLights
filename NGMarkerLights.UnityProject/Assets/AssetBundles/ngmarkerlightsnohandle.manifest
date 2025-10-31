@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4249127499
+CRC: 3630329918
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a60dfb474391e4a25db7fa8e5ae93baa
+    Hash: 63cde34b7f38ff64038b26a5ede2bdd2
   TypeTreeHash:
     serializedVersion: 2
     Hash: e7473f49bde0cbc031a06cf0abb01251
@@ -43,10 +43,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefabs/NGMarkerLightNoHandle_Gadget.prefab
-- Assets/Prefabs/NGMarkerLightNoHandle.prefab
-- Assets/Texture2D/standardnohandle.png
-- Assets/Prefabs/NGMarkerLightNoHandle_ShelfItem.prefab
 - Assets/Texture2D/droppednohandle.png
-Dependencies:
-- D:/Derail Valley Development/NGMarkerLights/NGMarkerLights.UnityProject/Assets/AssetBundles/ngmarkerlights
+- Assets/Prefabs/NGMarkerLightNoHandle_Gadget.prefab
+- Assets/Texture2D/standardnohandle.png
+- Assets/Prefabs/NGMarkerLightNoHandle.prefab
+- Assets/Prefabs/NGMarkerLightNoHandle_ShelfItem.prefab
+Dependencies: []

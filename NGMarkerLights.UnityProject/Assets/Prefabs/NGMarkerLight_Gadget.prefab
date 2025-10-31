@@ -717,10 +717,12 @@ MonoBehaviour:
   requiredMountPoints: 0
   offMaterial: {fileID: 2100000, guid: d81bf4d8a7b0f374dabe61e5b90325d8, type: 2}
   colorMaterials:
+  - {fileID: 2100000, guid: d81bf4d8a7b0f374dabe61e5b90325d8, type: 2}
   - {fileID: 2100000, guid: 37cf52528a8a7a1468744ae92f892d5d, type: 2}
-  - {fileID: 2100000, guid: 71bd5579bfa60504fb9ba6a0e7de6bbc, type: 2}
   - {fileID: 2100000, guid: 98f6a40503c06914bb81d740d377f6a5, type: 2}
   - {fileID: 2100000, guid: 9e404411c70af0f49839ca5c1218b8da, type: 2}
+  - {fileID: 2100000, guid: 71bd5579bfa60504fb9ba6a0e7de6bbc, type: 2}
+  - {fileID: 2100000, guid: 96defee7a62ba8b4bb3837e9d8749b71, type: 2}
   lanternRenderer: {fileID: 6611287928140947265}
   materialIndex: 0
   interactionCollider: {fileID: 6567450904039306520}

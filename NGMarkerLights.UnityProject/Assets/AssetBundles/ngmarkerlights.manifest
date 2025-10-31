@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 862035036
+CRC: 3150549358
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7c0f74cc428d82974f1be99010907f2d
+    Hash: 05ca567e0a175af481553339acf67c6c
   TypeTreeHash:
     serializedVersion: 2
     Hash: e7473f49bde0cbc031a06cf0abb01251
@@ -44,13 +44,8 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefabs/NGMarkerLight.prefab
-- Assets/Materials/Blue Light.mat
-- Assets/Materials/Red Light.mat
-- Assets/Prefabs/NGMarkerLight_Gadget.prefab
-- Assets/Materials/Green Light.mat
-- Assets/Materials/No Light.mat
-- Assets/Materials/Yellow Light.mat
 - Assets/Texture2D/standard.png
+- Assets/Prefabs/NGMarkerLight_Gadget.prefab
 - Assets/Prefabs/NGMarkerLight_ShelfItem.prefab
 - Assets/Texture2D/dropped.png
 Dependencies: []

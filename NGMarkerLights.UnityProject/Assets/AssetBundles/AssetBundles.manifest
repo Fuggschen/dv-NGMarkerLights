@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2799396017
+CRC: 2527758638
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,5 +7,4 @@ AssetBundleManifest:
       Dependencies: {}
     Info_1:
       Name: ngmarkerlightsnohandle
-      Dependencies:
-        Dependency_0: ngmarkerlights
+      Dependencies: {}
